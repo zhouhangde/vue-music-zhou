@@ -139,6 +139,24 @@ vue-cli webpack vuedemo1
 
 
 
+githup用户名密码
+1728451471@qq.com
+zh5235340133299
+
+
+附加:
+vue和webpack项目构建过程常用的npm命令
+https://blog.csdn.net/github_39274378/article/details/77850225
+
+webpack4安装与学习
+https://www.cnblogs.com/cashin/p/8721979.html
+
+
+从搭建vue-脚手架到掌握webpack配置（一.基础配置）
+https://www.jianshu.com/p/f05269760d84
+
+
+
 
 
 
